@@ -1,0 +1,2 @@
+passport_num,name,gender,country,pn_manual,passport_face_detected,passport_verified,passport_similarity,passport_verification_time,person_face_detected,person_similarity,person_verified,person_varification_time,total_time,date,time
+AA0000000,John,M,Pak,0,1,1,0.9759281873703003,0.8551034927368164,1,0.5418487787246704,1,0.5530378818511963,40.94129800796509,06-24-2023,16:20:42

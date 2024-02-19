@@ -1,0 +1,14 @@
+Datetime,Passport #,Log History
+"06-24-2023, 16:20:07",,"Passport Data Page is uploaded successfully.
+Path: C:/Users/ABDULLAH/Desktop/FYP/v1.8.0/v1.8.0/dummy/passport.jpeg"
+"06-24-2023, 16:20:10",AA0000000,Passport Number Extraction Completed. Passport Number: AA0000000
+"06-24-2023, 16:20:10",AA0000000,"Database photo fetched successfully. Person Name:John
+Passport Number Matched Successfully"
+"06-24-2023, 16:20:11",AA0000000,Face detected successfully
+"06-24-2023, 16:20:11",AA0000000,"Face on passport matched successfully
+"
+"06-24-2023, 16:20:23",AA0000000,Camera Opens
+"06-24-2023, 16:20:41",AA0000000,Face captured
+"06-24-2023, 16:20:41",AA0000000,Picture taken
+"06-24-2023, 16:20:41",AA0000000,Person face detected
+"06-24-2023, 16:20:42",AA0000000,Person is verified
